@@ -14,7 +14,7 @@
 
 	<groupId>de.mpicbg.scf</groupId>
 	<artifactId>SCF_ImgTools_binaryops</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>SCF_ImgTools_binaryops</name>
 	
@@ -178,6 +178,12 @@
 		</repository>
 	</repositories>
 
+	<distributionManagement>
+		<repository>
+			<id>imagej.public</id>
+			<url>http://maven.imagej.net/content/groups/public</url>
+		</repository>
+	</distributionManagement>
 	
 	<build>
 		<plugins>
