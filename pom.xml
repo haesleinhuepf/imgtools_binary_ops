@@ -56,11 +56,6 @@
 			<groupId>mpicbg</groupId>
 			<artifactId>mpicbg</artifactId>
 			</dependency>
-		<dependency>
-		  <groupId>sc.fiji</groupId>
-		  <artifactId>LSM_Reader</artifactId>
-		  <version>4.1.2-SNAPSHOT</version>
-		</dependency>
 		
 		<!-- Dependency for running automated test -->
 		<dependency>
@@ -76,23 +71,7 @@
 			<artifactId>commons-lang3</artifactId>
 			<version>3.4</version>
 		</dependency>
-		
-		<!-- Dependency to use GenericDialogPlus -->
-		
-		<dependency>
-		  <groupId>sc.fiji</groupId>
-		  <artifactId>Fiji_Plugins</artifactId>
-		  <version>3.0.1-SNAPSHOT</version>
-		</dependency>
-		
-		<!-- Dependency for Surface Manager to get access to the 3D Viewer -->
-		
-		<dependency>
-		  <groupId>sc.fiji</groupId>
-		  <artifactId>3D_Viewer</artifactId>
-		  <version>3.1.1-SNAPSHOT</version>
-		</dependency>
-		
+
 		<dependency>
 		  <groupId>java3d</groupId>
 		  <artifactId>vecmath</artifactId>
@@ -135,13 +114,6 @@
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-math3</artifactId>
 			<version>3.4.1</version>
-		</dependency>
-		
-		<!-- Dependency for using graph cut in MinCostZSurface -->
-		<dependency>
-		  <groupId>sc.fiji</groupId>
-		  <artifactId>Graph_Cut</artifactId>
-		  <version>1.0.2-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
