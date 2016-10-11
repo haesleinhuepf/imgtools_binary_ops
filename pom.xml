@@ -11,7 +11,7 @@
 
 	<groupId>de.mpicbg.scf</groupId>
 	<artifactId>SCF_ImgTools_binaryops</artifactId>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>1.0.6</version>
 
 	<name>SCF_ImgTools_binaryops</name>
 	
@@ -165,6 +165,6 @@
 	</build>
 
   <scm>
-    <tag>SCF_ImgTools_binaryops-1.0.3</tag>
+    <tag>SCF_ImgTools_binaryops-1.0.6</tag>
   </scm>
 </project>
